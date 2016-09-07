@@ -1,0 +1,11 @@
+wp-config.development.php
+/nbproject/private/
+subscription.log
+wp-content/uploads/wc-logs/*
+pucpr.iml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/copyright/profiles_settings.xml
