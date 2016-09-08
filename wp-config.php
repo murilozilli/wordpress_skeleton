@@ -24,7 +24,7 @@ if (file_exists(dirname(__FILE__)."/wp-config.development.php"))
 
 // ** Configurações do MySQL - Você pode pegar essas informações com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
-define('DB_NAME', 'flic');
+define('DB_NAME', 'wordpress');
 
 
 /** Usuário do banco de dados MySQL */
@@ -32,7 +32,7 @@ define('DB_USER', 'root');
 
 
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', 'rootroot');
+define('DB_PASSWORD', 'root');
 
 
 /** nome do host do MySQL */
